@@ -1,0 +1,5 @@
+2013.05.01
+Because CLEditor is used in the ngwebsite project, a fork from github was done
+to ensure updates are possible as needed.
+
+At the moment, some changes will be required to adjust to jquery 1.9.x
